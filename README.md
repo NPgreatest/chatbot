@@ -58,7 +58,7 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone git@github.com:NPgreatest/chatbot.git
    cd chatbot
    ```
 2. Install dependencies for both front-end and back-end:
