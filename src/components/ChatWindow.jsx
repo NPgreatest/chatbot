@@ -62,7 +62,7 @@ const ChatWindow = () => {
                 />
                 <button
                     onClick={handleSendMessage}
-                    className="ml-4 px-4 py-2 bg-neon-blue text-white rounded-lg hover:bg-blue-700"
+                    className="ml-4 px-4 py-2 bg-neon-blue text-black rounded-lg hover:bg-blue-700"
                 >
                     Send
                 </button>
